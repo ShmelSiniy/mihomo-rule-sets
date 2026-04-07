@@ -184,6 +184,9 @@ payload:
  - PROCESS-NAME,ru.vk.store
  - PROCESS-NAME,ru.vk.video
  - PROCESS-NAME,ru.vkmusic.audio
+ - PROCESS-NAME,vkontakte.android
+ - PROCESS-NAME,com.uma.musicvk
+ - PROCESS-NAME,com.perm.kate_new_6
  - PROCESS-NAME,ru.amina.moscow
  - PROCESS-NAME,ru.lewis.dbo
  - PROCESS-NAME,ru.gibdd_pay.app
